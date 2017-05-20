@@ -18,7 +18,7 @@ Download the [zip][gitZip] or [tar][gitTar] ball.
 
 ## Source code
 
-The source is available at: [http://github.com/cwmyers/monet.js](http://github.com/cwmyers/monet.js).
+The source is available at: [http://github.com/cwmyers/monet.js](http://github.com/monet/monet.js).
 
 ## Installation
 
